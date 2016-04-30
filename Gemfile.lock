@@ -1,0 +1,22 @@
+PATH
+  remote: .
+  specs:
+    frustration (0.1.0)
+      yamlable (= 0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (10.5.0)
+    yamlable (0.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 1.11)
+  frustration!
+  rake (~> 10.0)
+
+BUNDLED WITH
+   1.11.2
